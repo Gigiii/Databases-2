@@ -1,0 +1,1 @@
+SELECT * FROM Customers WHERE Age < 21 AND CountryID = 1 ORDER BY Age
